@@ -33,13 +33,13 @@ function Footer() {
         </div>
         <div className="gpt3__footer-links_div">
           <h4>Get in touch</h4>
-          <p>Crechterwoord K12 182 DK Alknjkcb</p>
-          <p>085-132567</p>
-          <p>info@payme.net</p>
+          <p>Dhaka, Bangladesh</p>
+          <p>+880 1878550385</p>
+          <p>devomar56@gmail.com</p>
         </div>
       </div>
       <div className="gpt3__footer-copyright">
-        <p>© 2021 GPT-3. All rights reserved.</p>
+        <p>© 2023 Faruk khan. All rights reserved.</p>
       </div>
     </div>
   );
